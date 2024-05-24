@@ -1,0 +1,371 @@
+{
+    "ATGE": {
+        "chat_gpt": "Adtalem Global Education Inc. offers professional education in various fields, including healthcare and technology, which could see increased enrollment.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.finder.com/stock-trading/education-stocks",
+                "title": "11 top education stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cabotwealth.com/daily/growth-stocks/best-for-profit-education-stocks",
+                "title": "12 Best For-Profit Education Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetsurvivor.com/find-stocks/interest/education-stocks/",
+                "title": "Education and School Stocks: Lists and Tips",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "CHGG": {
+        "chat_gpt": "Chegg Inc. provides online education services, including study tools and resources, which could see increased demand as students seek alternative education paths.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/types-of-stocks/education-stocks/",
+                "title": "7 Best Education Stocks to Invest In",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.finder.com/stock-trading/education-stocks",
+                "title": "11 top education stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cabotwealth.com/daily/growth-stocks/best-for-profit-education-stocks",
+                "title": "12 Best For-Profit Education Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DV": {
+        "chat_gpt": "Adtalem Global Education Inc. (formerly DeVry Education Group) provides career-oriented education, including business, healthcare, and technology, likely to see increased interest.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LIN": {
+        "chat_gpt": "Lincoln Educational Services Corporation offers hands-on training in automotive, skilled trades, healthcare, and culinary fields, standing to gain from the shift.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LOPE": {
+        "chat_gpt": "Grand Canyon Education Inc. provides education services, including programs focused on professional and technical disciplines, likely to attract more students.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.finder.com/stock-trading/education-stocks",
+                "title": "11 top education stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cabotwealth.com/daily/growth-stocks/best-for-profit-education-stocks",
+                "title": "12 Best For-Profit Education Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "LRN": {
+        "chat_gpt": "K12 Inc. offers online and blended education programs, including career technical education, which could benefit from the shift towards trade and technical schools.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/types-of-stocks/education-stocks/",
+                "title": "7 Best Education Stocks to Invest In",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.finder.com/stock-trading/education-stocks",
+                "title": "11 top education stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cabotwealth.com/daily/growth-stocks/best-for-profit-education-stocks",
+                "title": "12 Best For-Profit Education Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PRDO": {
+        "chat_gpt": "Perdoceo Education Corporation focuses on postsecondary education through online, career-oriented programs, aligning well with the trend towards trade and technical education.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "STRA": {
+        "chat_gpt": "Strategic Education Inc. operates both online and physical campuses for professional education, potentially benefiting from increased interest in career-focused programs.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.cabotwealth.com/daily/growth-stocks/best-for-profit-education-stocks",
+                "title": "12 Best For-Profit Education Stocks",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetsurvivor.com/find-stocks/interest/education-stocks/",
+                "title": "Education and School Stocks: Lists and Tips",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "UTI": {
+        "chat_gpt": "Universal Technical Institute Inc. provides technical education for automotive, diesel, collision repair, motorcycle, and marine technicians, directly benefiting from the trend.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "APEI": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.finder.com/stock-trading/education-stocks",
+                "title": "11 top education stocks to buy in 2024 - Finder.com",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BFAM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/types-of-stocks/education-stocks/",
+                "title": "7 Best Education Stocks to Invest In",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.cabotwealth.com/daily/growth-stocks/best-for-profit-education-stocks",
+                "title": "12 Best For-Profit Education Stocks",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "LINC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/types-of-stocks/education-stocks/",
+                "title": "7 Best Education Stocks to Invest In",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AFRM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/somoscdi/status/1787120454873825762",
+                "text": "Mi: $TM $UBER $SHOP $VST $FWONK $WISH $EGHT $AFRM $ABNB $ARM $HUBS $HOOD $DUOL\nJu: $RBLX $WMG $EPAM $BLNK $PGNY $GCT $CEG $PLUG $AKAM $MARA $CSIQ $YPF $FROG $FVRR $NTRA\nVi: $DOCN $SLVM\n\n600 empresas de $IWM presentan resultados del sector tecnolog\u00eda, m\u00e1s de 170 empresas \ud83d\udcc8\ud83d\udcbc https://t.co/UDu36XRDh2",
+                "username": "somoscdi",
+                "user_url": "https://twitter.com/somoscdi",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1708943387989086208/lcG-NJ0a_normal.jpg",
+                "date": "2024-05-05T14:01:34Z"
+            },
+            {
+                "url": "https://twitter.com/TheHermitTrader/status/1722617894163677364",
+                "text": "EP watches today:\n\nFocus: $MARA\n\nCryptos on the move\n- $ETH $BTC up\n- $RIOT premarket gapping above yesterday's high, recouping post-earnings loss\n- $COIN out from range\n- High short interest in sector, MARA has 25% as % of float\n\nOn list:\n$TAST $APP $AFRM $DUOL $TWLO $CIFR",
+                "username": "TheHermitTrader",
+                "user_url": "https://twitter.com/TheHermitTrader",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1724055768314400768/7Zt1Wp-B_normal.jpg",
+                "date": "2023-11-09T14:11:25Z"
+            },
+            {
+                "url": "https://twitter.com/Randy_TML_IPO/status/1741895278981239238",
+                "text": "Industry groups and Sectors to watch: \nAi, Software (security, enterprise, database, etc.), Retails, Leisure &amp; Bitcoin. \n$ARM, $AMD, $ESTC, $IOT, $SHOP, $AFRM, $CRWD, $ZS, $PANW, $DUOL, $GDDY, $UBER, $COIN, $MSTR.",
+                "username": "Randy_TML_IPO",
+                "user_url": "https://twitter.com/Randy_TML_IPO",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1343969879427227648/Jbc3lgNp_normal.jpg",
+                "date": "2024-01-01T18:52:52Z"
+            }
+        ],
+        "experts": []
+    },
+    "ARM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/somoscdi/status/1787120454873825762",
+                "text": "Mi: $TM $UBER $SHOP $VST $FWONK $WISH $EGHT $AFRM $ABNB $ARM $HUBS $HOOD $DUOL\nJu: $RBLX $WMG $EPAM $BLNK $PGNY $GCT $CEG $PLUG $AKAM $MARA $CSIQ $YPF $FROG $FVRR $NTRA\nVi: $DOCN $SLVM\n\n600 empresas de $IWM presentan resultados del sector tecnolog\u00eda, m\u00e1s de 170 empresas \ud83d\udcc8\ud83d\udcbc https://t.co/UDu36XRDh2",
+                "username": "somoscdi",
+                "user_url": "https://twitter.com/somoscdi",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1708943387989086208/lcG-NJ0a_normal.jpg",
+                "date": "2024-05-05T14:01:34Z"
+            },
+            {
+                "url": "https://twitter.com/sssvenky/status/1734027077198774324",
+                "text": "Names on my watchlist for the upcoming week or two:\n\n$DUOL $AMZN $PATH $WDAY $CRM $NVDA $LLY $TSLA $AZEK $NTRA $CCJ $NET $DKNG $MSFT $META $CVNA \n\nRed to Green (R2G) type plays: $ARM $LULU\n\nSector Watch: $SMH\n\nhttps://t.co/KHyHwzOds3\n\nNOTE: As Always, best to view them on multiple timeframes #MTFA, especially weekly to start with.\n\n@AOTtrades",
+                "username": "sssvenky",
+                "user_url": "https://twitter.com/sssvenky",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1459178047828070439/dVrBh531_normal.jpg",
+                "date": "2023-12-11T01:47:26Z"
+            },
+            {
+                "url": "https://twitter.com/Randy_TML_IPO/status/1741895278981239238",
+                "text": "Industry groups and Sectors to watch: \nAi, Software (security, enterprise, database, etc.), Retails, Leisure &amp; Bitcoin. \n$ARM, $AMD, $ESTC, $IOT, $SHOP, $AFRM, $CRWD, $ZS, $PANW, $DUOL, $GDDY, $UBER, $COIN, $MSTR.",
+                "username": "Randy_TML_IPO",
+                "user_url": "https://twitter.com/Randy_TML_IPO",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1343969879427227648/Jbc3lgNp_normal.jpg",
+                "date": "2024-01-01T18:52:52Z"
+            }
+        ],
+        "experts": []
+    },
+    "DUOL": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/saxena_puru/status/1761578293030240679",
+                "text": "Duolingo - pullback to 40wk ma in STAGE2 advance\n\n- Leading education technology business\n- Q3 revenue +43.2%YoY\n- 83.1m MAUs (+47%YoY)\n- 5.8m paid subscribers (+60%YoY)\n- GAAP profitable, FCF +ve\n- Co-founders own ~15% \n- Picked up more shares during this p/b\n\nI'm long $DUOL https://t.co/zeheZ0MFQa",
+                "username": "saxena_puru",
+                "user_url": "https://twitter.com/saxena_puru",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1784491086758715392/dWZ9HkUg_normal.jpg",
+                "date": "2024-02-25T02:26:08Z"
+            },
+            {
+                "url": "https://twitter.com/TedHZhang/status/1728457143890944345",
+                "text": "Online education stocks $DUOL $EDU $UDMY are on fire.\n\n$COUR (long) inside day Friday setting up in a base. Let's see if it joins the party",
+                "username": "TedHZhang",
+                "user_url": "https://twitter.com/TedHZhang",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1550834359464239105/MZAv6ykY_normal.jpg",
+                "date": "2023-11-25T16:54:30Z"
+            },
+            {
+                "url": "https://twitter.com/drmansipd/status/1731799672702874048",
+                "text": "Trading plan for tomorrow:\n- Mkts bullish AF\n- Big reversal and strong close\n- Sector rotation going on too\n- So far pullback looks healthy\n- Have 0.25% ROTE in $DUOL open\n- Happy to make that 0.5% tomorrow is mkt strong again\n- Also watching $SOXL for entry 50 bps",
+                "username": "drmansipd",
+                "user_url": "https://twitter.com/drmansipd",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1613869081257725952/JvrBlLAd_normal.jpg",
+                "date": "2023-12-04T22:16:31Z"
+            }
+        ],
+        "experts": []
+    },
+    "IOT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/IzhanJuarez/status/1752322206074294581",
+                "text": "...parece que la situaci\u00f3n podr\u00eda estar mejorando, ya que en el sector Servicios Tecnol\u00f3gicos hay empresas como $PATH $CRWD $S $SEMR $FRSH $IOT $DUOL que han estado dejando grandes comportamientos ya que unas han aguantado la parte alta y otras se han visto muy beneficiadas... https://t.co/yRdlFdBLY6",
+                "username": "IzhanJuarez",
+                "user_url": "https://twitter.com/IzhanJuarez",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1567539074113703943/V_TqQ0Va_normal.jpg",
+                "date": "2024-01-30T13:25:45Z"
+            },
+            {
+                "url": "https://twitter.com/Randy_TML_IPO/status/1741895278981239238",
+                "text": "Industry groups and Sectors to watch: \nAi, Software (security, enterprise, database, etc.), Retails, Leisure &amp; Bitcoin. \n$ARM, $AMD, $ESTC, $IOT, $SHOP, $AFRM, $CRWD, $ZS, $PANW, $DUOL, $GDDY, $UBER, $COIN, $MSTR.",
+                "username": "Randy_TML_IPO",
+                "user_url": "https://twitter.com/Randy_TML_IPO",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1343969879427227648/Jbc3lgNp_normal.jpg",
+                "date": "2024-01-01T18:52:52Z"
+            },
+            {
+                "url": "https://twitter.com/IzhanJuarez/status/1742858069984371052",
+                "text": "\ud83d\udfe2REPASO SESI\u00d3N 3/1/24\ud83d\udfe2\n\nEl mercado ha experimentado su 2\u00ba d\u00eda de ca\u00edda o PB tras la extensi\u00f3n en la que se encontraba. Sin embargo, la energ\u00eda es el sector que ha aguantado bien\n\nLas small/mid caps las que m\u00e1s han sufrido, cosa que se ve en empresas como $IOT o $DUOL\n\n#IXIC https://t.co/lxFIzLauvP",
+                "username": "IzhanJuarez",
+                "user_url": "https://twitter.com/IzhanJuarez",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1567539074113703943/V_TqQ0Va_normal.jpg",
+                "date": "2024-01-04T10:38:39Z"
+            }
+        ],
+        "experts": []
+    },
+    "NVDA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/sssvenky/status/1734027077198774324",
+                "text": "Names on my watchlist for the upcoming week or two:\n\n$DUOL $AMZN $PATH $WDAY $CRM $NVDA $LLY $TSLA $AZEK $NTRA $CCJ $NET $DKNG $MSFT $META $CVNA \n\nRed to Green (R2G) type plays: $ARM $LULU\n\nSector Watch: $SMH\n\nhttps://t.co/KHyHwzOds3\n\nNOTE: As Always, best to view them on multiple timeframes #MTFA, especially weekly to start with.\n\n@AOTtrades",
+                "username": "sssvenky",
+                "user_url": "https://twitter.com/sssvenky",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1459178047828070439/dVrBh531_normal.jpg",
+                "date": "2023-12-11T01:47:26Z"
+            },
+            {
+                "url": "https://twitter.com/ROBTHEMARKET/status/1729929371383701837",
+                "text": "Courage Portfolio - holding categories\n\n$NVDA $DUOL .. AI related stocks\n$COIN $SQ $CONY ..  Crypto/bitcoin related\n$LLY $NVO .. proven weight loss drugs\n$UBER $LYFT .. psgr transportation\n$MSFT $META $AMZN $GOOG .. magnificent 7\n$DKNG   .. Gambling sector\n$PANW .. Cybersecurity",
+                "username": "ROBTHEMARKET",
+                "user_url": "https://twitter.com/ROBTHEMARKET",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1727412895443468288/-Xsm7abY_normal.jpg",
+                "date": "2023-11-29T18:24:37Z"
+            },
+            {
+                "url": "https://twitter.com/ROBTHEMARKET/status/1728581936136794188",
+                "text": "Courage to be Rich \nI'm in 5 hot sector groups or catalysts.\nthe stocks I pick for those groups.\nAI  related stocks :  $NVDA  $DUOL\nBitcoin related :  $COIN $CONY $SQ\nProven weight loss drugs:   $NVO $LLY\nMagnificent 7:  $AMZN $MSFT $META $GOOG\nGambling sector:  $DKNG\n\n? $UBER",
+                "username": "ROBTHEMARKET",
+                "user_url": "https://twitter.com/ROBTHEMARKET",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1727412895443468288/-Xsm7abY_normal.jpg",
+                "date": "2023-11-26T01:10:23Z"
+            }
+        ],
+        "experts": []
+    },
+    "UBER": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/somoscdi/status/1787120454873825762",
+                "text": "Mi: $TM $UBER $SHOP $VST $FWONK $WISH $EGHT $AFRM $ABNB $ARM $HUBS $HOOD $DUOL\nJu: $RBLX $WMG $EPAM $BLNK $PGNY $GCT $CEG $PLUG $AKAM $MARA $CSIQ $YPF $FROG $FVRR $NTRA\nVi: $DOCN $SLVM\n\n600 empresas de $IWM presentan resultados del sector tecnolog\u00eda, m\u00e1s de 170 empresas \ud83d\udcc8\ud83d\udcbc https://t.co/UDu36XRDh2",
+                "username": "somoscdi",
+                "user_url": "https://twitter.com/somoscdi",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1708943387989086208/lcG-NJ0a_normal.jpg",
+                "date": "2024-05-05T14:01:34Z"
+            },
+            {
+                "url": "https://twitter.com/onlyTa17/status/1723409144122671151",
+                "text": "Leading sector: $XLK\nLeading industry groups inside the sector: $SMH $VGT $IGV $AIQ \nLeading stocks in these industries: $DUOL $PLTR $DDOG $UBER $PINS\nThese had great EPs and now I'm waiting for them to get tight for me to buy. Still studying EPs, not confident in buying them yet",
+                "username": "onlyTa17",
+                "user_url": "https://twitter.com/onlyTa17",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1628816550793736194/XJg3jeTa_normal.jpg",
+                "date": "2023-11-11T18:35:34Z"
+            },
+            {
+                "url": "https://twitter.com/ROBTHEMARKET/status/1729929371383701837",
+                "text": "Courage Portfolio - holding categories\n\n$NVDA $DUOL .. AI related stocks\n$COIN $SQ $CONY ..  Crypto/bitcoin related\n$LLY $NVO .. proven weight loss drugs\n$UBER $LYFT .. psgr transportation\n$MSFT $META $AMZN $GOOG .. magnificent 7\n$DKNG   .. Gambling sector\n$PANW .. Cybersecurity",
+                "username": "ROBTHEMARKET",
+                "user_url": "https://twitter.com/ROBTHEMARKET",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1727412895443468288/-Xsm7abY_normal.jpg",
+                "date": "2023-11-29T18:24:37Z"
+            }
+        ],
+        "experts": []
+    }
+}
